@@ -1,4 +1,4 @@
-import PointsStack.Point;
+package src;
 
 public class Cuboid {
     private final double halfWidth;

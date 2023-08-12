@@ -1,4 +1,4 @@
-package PointsStack;
+package src;
 
 /**
  * @author Anton Smeliov

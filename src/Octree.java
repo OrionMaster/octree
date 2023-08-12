@@ -1,5 +1,5 @@
-import PointsStack.Point;
-import PointsStack.PointStack;
+package src;
+
 
 public class Octree {
 
